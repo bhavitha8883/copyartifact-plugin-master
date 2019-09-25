@@ -1,0 +1,12 @@
+target
+work
+.classpath
+.project
+.settings
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea
+out
