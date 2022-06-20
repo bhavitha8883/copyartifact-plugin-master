@@ -30,7 +30,7 @@
         <java.level>8</java.level>
         <workflow-api-plugin.version>2.30</workflow-api-plugin.version>
         <useBeta>true</useBeta>
-        <workflow-cps-plugin.version>2.32</workflow-cps-plugin.version>
+        <workflow-cps-plugin.version>2.94.4</workflow-cps-plugin.version>
     </properties>
 
     <dependencies>
